@@ -1,5 +1,5 @@
 import React from 'react'
-import notfound from './notfound.gif'
+import notfound from './notfound.png'
 
 export default function NotFound() {
   return (

@@ -34,21 +34,21 @@ export default function NavBar({title}) {
                 </NavLink>
                 <NavLink 
                     to='/usuarios'
-                    tabIndex={2}
+                    tabIndex={3}
                     className="nav-item nav-link"
                 >
                     Usuarios
                 </NavLink>
                 <NavLink 
                     to='/marcas'
-                    tabIndex={2}
+                    tabIndex={4}
                     className="nav-item nav-link"
                 >
                     Marcas
                 </NavLink>
                 <NavLink 
                     to='/inventarios'
-                    tabIndex={2}
+                    tabIndex={5}
                     className="nav-item nav-link"
                 >
                     Inventarios
